@@ -1,0 +1,47 @@
+* [fn:1]DONE 给佳佳买生日礼物花和
+  CLOSED: [2017-05-19 Fri 23:08]
+* This is head one
+** This is head two
+*** this is head three[fn:2]
+  what is you name
+*** name
+**** this is head four
+
+ my name is dht ihc . who are you .
+my name is jiajia.
+what is you name ?
+
+* Footnotes
+
+[fn:1] xiabo
+
+** [fn:2] the 3rd head line
+
+
+** TODO to
+
+** TODO go swimming
+
+
+ - [X] name
+ - [ ] xiabo
+ - [ ]
+
+
+
+ | name                | age | gender |
+ |---------------------+-----+--------|
+ | xiabooo             |  27 | mail   |
+ |---------------------+-----+--------|
+ | [[https:www.baidu.com]] |     |        |
+ |                     |     |        |
+ |                     |     |        |
+
+[[www.baidu.com
+]]
+
+* TODO
+
+*
+
+*
